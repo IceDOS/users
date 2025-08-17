@@ -2,6 +2,7 @@
 defaultPassword = "test" # Default password used for first login, change later using passwd
 description = "IceDBorn"
 extraGroups = ["docker"]
+extraPackages = ["signal-desktop"]
 home = "/home/icedborn"
 isNormalUser = false
 isSystemUser = true
